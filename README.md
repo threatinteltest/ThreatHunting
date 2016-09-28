@@ -1,7 +1,6 @@
 # The ThreatHunting Project
 An informational repo about hunting for adversaries in your IT environment.
 
-Be sure to visit [ThreatHunting.net](http://threathunting.net) for more info about this repo.
 
 ## License
 Here's the deal, in plain English:
